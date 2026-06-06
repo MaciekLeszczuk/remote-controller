@@ -307,10 +307,6 @@ Potential enhancements:
 - **.NET 7 Runtime**: Cross-platform .NET runtime
 - **Windows.Forms** (Client): GUI framework
 
-## License
-
-[Specify your license here, e.g., MIT, GPL, etc.]
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues or pull requests.
